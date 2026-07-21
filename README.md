@@ -180,3 +180,7 @@ The services in Step 2 are not private (except for Azteco, which is). It is wort
 4. Withdraw bitcoin to bitcoin address from Step 1.
 
 *Note: As stated when installing BISQ, the user is responsible for using the software in compliance with local laws.*
+
+## License
+
+See [LICENSE](LICENSE); the original Bitcoin Intro project is open-source and community-oriented.
